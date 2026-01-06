@@ -3,7 +3,7 @@
 -- ═══════════════════════════════════════════════════════════
 --  ⚠️  THIS SCRIPT IS PROTECTED
 --  🔒  Only executable through official loader
---  📱  Pastefy: https://pastefy.app/VL21y5t7/raw
+--  📱  Pastefy: https://pastefy.app/AD4fLcCW/raw
 -- ═══════════════════════════════════════════════════════════
 
 -- ANTI-STEAL PROTECTION
@@ -38,7 +38,7 @@ do
         warn("═══════════════════════════════════════════════════════════")
         warn("  ⚠️  AKSES DITOLAK / ACCESS DENIED")
         warn("  📱  Gunakan loader resmi dari:")
-        warn("  🔗  https://pastefy.app/VL21y5t7/raw")
+        warn("  🔗  https://pastefy.app/AD4fLcCW/raw")
         warn("═══════════════════════════════════════════════════════════")
         return
     end
